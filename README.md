@@ -8,6 +8,7 @@ To install the game, you will need to have Python and the following modules inst
 - SQLite
 - ast
 - JSON
+
 Once you have these dependencies installed, you can clone the repository to your local machine:
 
 ## Usage
