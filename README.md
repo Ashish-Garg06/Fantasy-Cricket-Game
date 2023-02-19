@@ -11,7 +11,7 @@ To install the game, you will need to have Python and the following modules inst
 Once you have these dependencies installed, you can clone the repository to your local machine:
 
 ## Usage
-To play the game, simply run the fantasy_cricket.py file in a Python interpreter. This will launch the game interface, which will allow you to create and manage your own cricket team.
+To play the game, simply run the mainwindo.py file in a Python interpreter. This will launch the game interface, which will allow you to create and manage your own cricket team.
 
 ## Contributing
 Contributions to the project are welcome! If you would like to contribute, please submit a pull request with your changes.
